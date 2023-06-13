@@ -29,10 +29,11 @@
   font-size: 70px;
   vertical-align: middle;
   line-height: 70px;
+  color: #de1f1f ;
 }
 
 .hammer-header a {
-  color: white;
+  color: #de1f1f;
 }
 
 li.nav-item {
@@ -43,6 +44,7 @@ li.nav-item {
   position: relative;
   color: rgb(250, 250, 250);
   text-decoration: none;
+  color: #de1f1f;
 }
 
 .tags:after {
@@ -53,7 +55,7 @@ li.nav-item {
   bottom: 0;
   padding: 0 20px;
   left: 0;
-  background-color: #ffff00;
+  background-color: #de1f1f;
   transform-origin: bottom right;
   transition: transform 0.25s ease-out;
   transform: scaleX(0);
@@ -70,6 +72,7 @@ li.nav-item {
   position: left;
   padding-left: 10px;
   line-height: 70px;
+  color: #de1f1f;
 }
 
 div.hammer-header {
