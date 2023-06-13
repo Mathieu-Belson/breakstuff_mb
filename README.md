@@ -7,13 +7,19 @@ Users can also share their own breakrooms and upload photos / rooms for others t
 
 This website is modelled on airbnb.
 
-<img src="./app/assets/images/Breakstuff_Landing.png">
+<img src="./app/assets/images/Breakstuff_landing.JPG">
 <br>
-<img src="./app/assets/images/Breakstuff_Roomsearch.png">
+<img src="./app/assets/images/Breakstuff_home_page_1.JPG">
 <br>
-<img src="./app/assets/images/Breakstuff_Roomview.png">
+<img src="./app/assets/images/Breakstuff_home_page_2.JPG">
 <br>
-App home: https://breakstuff.herokuapp.com
+<img src="./app/assets/images/Break_room_show _page.JPG">
+<br>
+<img src="./app/assets/images/Breakstuff_your_bookings.JPG">
+<br>
+<img src="./app/assets/images/Breakstuff_reservation.JPG">
+<br>
+App home: https://**********.com
 
 
 ## Getting Started
