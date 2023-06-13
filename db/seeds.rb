@@ -57,7 +57,7 @@ new_room_flat = Room.new(
 )
 
 new_room_bf = Room.new(
-  name: "My ex-boyfriend's apartment. Fuck you Charlie",
+  name: "My ex-boyfriend's apartment. Go to hell Charlie",
   address: 'Kanagawa, Yokohama, Naka, Chojamachi, 4-11-14',
   story: 'Let it be known that Charlie is a total dickbag. Destroy all the expensive crap in this appartment. Destroy the cheap stuff too. You can also bring
   your own expensive stuff. All I ask is that you let me watch and maybe bring some wine.',
